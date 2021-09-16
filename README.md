@@ -1,2 +1,7 @@
 # Bitcoin-Time-Series-Forecast-ML-System
-## Dataset : https://www.kaggle.com/mczielinski/bitcoin-historical-data?select=bitstampUSD_1-min_data_2012-01-01_to_2021-03-31.csv
+
+Bitcoin (BTC) is a fastest growing cryptocurrency with highly turbulent and volatile trends of the highs and lows of BTC trading price. In other words, the BTC prices follows non stationarity tendency, thereby exhibiting variations in the statistical distribution of data over the time period. However, by using technical indicators responsible for fluctuation in BTC price, as an input to the Machine Learning (ML) algorithms, we can forecast future trends in order to assist investors to make wise decisions with regards to investment. In previous studies, linear and regression-based algorithms are used for short-term and mid-term forecast but are ineffective towards highly volatile environment of BTC price. Therefore, in this paper, we presented highly robust ML algorithms including ARIMA, FG Prophet, XG Boost and LSTM networks for predicting BTC price movements in long-terms. Our evaluation results indicate a significantly higher validation accuracy of 95.72% and 95.70% scored by ARIMA and FB Prophet algorithms. These outcomes shows that the implemented algorithms outperformed the existing ones in the literature.
+
+### Paper Citation
+Jaskirat Singh, Puneet Kumar Aggarwal, Parita Jain, Pooja Vajpayee (2021) “Time Series Forecasting of Bitcoin Trading Price using ARIMA, FB Prophet, XG Boost and LSTM”, Design Engineering, pp. 11277 - 11299. Available at: http://thedesignengineering.com/index.php/DE/article/view/4217
+
